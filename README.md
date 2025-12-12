@@ -2,8 +2,6 @@
 
 Automate your Secret Santa! Randomly assign recipients and send Gmail notifications with fun emojis (🎅🎁).
 
----
-
 ## Setup
 
 1. Install dependency:  
